@@ -1,6 +1,8 @@
-# Hi there, I'm Moaz Awad 👋
-
 <div align="center">
+
+<img src="assets/brand-logo.png" alt="Moaz Awad Brand Logo" width="130" style="border-radius: 20px;" />
+
+# Hi there, I'm Moaz Awad 👋
 
 ### 💼 Business Systems Developer • ERP Architect • Financial Data Analyst
 **Accounting & Information Systems Graduate** | Egypt-Japan University For Science and Technology (E-JUST - 2025) • Alexandria, Egypt
