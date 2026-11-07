@@ -63,7 +63,8 @@ Most operational bottlenecks, margin leaks, and inventory discrepancies happen b
 | 🖥️ **[al-amal-desktop](https://github.com/Moazawad2002/al-amal-desktop)** | Enterprise Desktop ERP | Electron, React 18, TypeScript, Supabase RLS territory isolation (Cairo, Giza, Alex), automated test suite. |
 | ⚡ **[al-amal-dms](https://github.com/Moazawad2002/al-amal-dms)** | Cloud Serverless DMS | Google Apps Script (V8), Google Sheets Relational Engine, automated document numbering (`INV`, `PO`), concurrency lock safety. |
 | 📊 **[premium-sales-intelligence-dashboard](https://github.com/Moazawad2002/premium-sales-intelligence-dashboard)** | Executive Business Intelligence | Microsoft Excel, Power Query ETL, Gross margin decomposition, Pareto (80/20) analysis, DSO aging schedule. |
-| 🎯 **[sales-executive-performance-dashboard](https://github.com/Moazawad2002/sales-executive-performance-dashboard)** | Field Operations Analytics | React, Recharts, TypeScript, 3.19M EGP monthly team quota tracking, tiered 2% commission with cash collection gate. |
+| 🎯 **[sales-executive-dashboard](https://github.com/Moazawad2002/sales-executive-dashboard)** | Field Operations Analytics | React, Recharts, TypeScript, 3.19M EGP monthly team quota tracking, regional datasets. |
+| 🏢 **[egypt-distribution-erp](https://github.com/Moazawad2002/egypt-distribution-erp)** | Multi-Branch Enterprise ERP | PostgreSQL 16 Enterprise, Express.js REST API, Prisma ORM, Electron Desktop, Docker, regional branch scoping. |
 
 ---
 
