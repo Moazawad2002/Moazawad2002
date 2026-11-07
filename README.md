@@ -9,7 +9,7 @@
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Moazawad2002-181717?style=for-the-badge&logo=github)](https://github.com/Moazawad2002)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Moaz%20Awad-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/moaz-awad-649911376)
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-Live%20Website-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://moazawad2002.github.io/)
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-Live%20Website-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://moazawad2002.github.io/moaz-portfolio/)
 [![Email](https://img.shields.io/badge/Email-moaz14714%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moaz14714@gmail.com)
 
 </div>
@@ -81,7 +81,7 @@ Most operational bottlenecks, margin leaks, and inventory discrepancies happen b
 
 ### 📬 Connect With Me
 
-- 🌐 **Portfolio Website:** [moazawad2002.github.io](https://moazawad2002.github.io/)
+- 🌐 **Portfolio Website:** [moazawad2002.github.io/moaz-portfolio](https://moazawad2002.github.io/moaz-portfolio/)
 - ✉️ **Email:** [moaz14714@gmail.com](mailto:moaz14714@gmail.com)
 - 💼 **LinkedIn:** [moaz-awad-649911376](https://www.linkedin.com/in/moaz-awad-649911376)
-- 🤝 **Fiverr Gigs:** [Excel Dashboards & Analytics](https://www.fiverr.com/s/Bb8WZBW) • [Cloud Automation & ERP](https://www.fiverr.com/s/EmrXZg0)
+- 🤝 **Fiverr Gigs:** [Excel Dashboards & Analytics](https://www.fiverr.com/s/VrD0ogx) • [Cloud Automation & ERP](https://www.fiverr.com/s/EmrXZg0)
